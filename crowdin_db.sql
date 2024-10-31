@@ -1,4 +1,3 @@
-
 DROP TABLE IF EXISTS `translations`;
 DROP TABLE IF EXISTS `sources`;
 DROP TABLE IF EXISTS `projects`;
